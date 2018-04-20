@@ -22,7 +22,7 @@ Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a
 ## Installation
 ### macOS
 ```shell
-brew cask install minikube
+brew install caskroom/cask/minikube
 ```
 
 ### Linux
